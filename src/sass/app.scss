@@ -1,0 +1,17 @@
+@import "colors";
+@import "fonts";
+
+body {
+  background-color: $black;
+  color: $white;
+  font-family: $popins;
+  min-height: 100vh;
+}
+a {
+  color: $white;
+  text-decoration: none;
+}
+
+.text-purple {
+  color: $purple;
+}
